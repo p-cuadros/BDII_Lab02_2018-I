@@ -163,5 +163,6 @@
     <None Include="Scripts\Actividad01.sql" />
     <None Include="Scripts\Actividad02.sql" />
     <None Include="Scripts\Actividad03.sql" />
+    <None Include="Scripts\actividad_03_5-8.sql" />
   </ItemGroup>
 </Project>
