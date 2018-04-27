@@ -35,3 +35,9 @@ select * from departments;
 	insert into departments  values('300','educacion','300','3300');
 
 
+
+	-------seleccionamos la secuencia
+	
+	select next value for SEQ_Departamentos_ID;
+
+
