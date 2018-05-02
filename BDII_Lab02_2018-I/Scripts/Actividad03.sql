@@ -1,5 +1,14 @@
-﻿
+﻿-------Ejercicio 1  ------ Condori Tito Hernan---
+CREATE VIEW VW_Empleados AS
+SELECT employee_id, last_name  employee, department_id
+FROM employees;
+GO
 
+------Ejercicio 2 ---- Condori Tito Hernan------
+
+SELECT employee, department_id
+FROM VW_Empleados;
+-----------------------------
 
 
 
